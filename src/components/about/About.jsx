@@ -37,8 +37,8 @@ function About() {
               <small>6+</small>
             </article>
           </div>
-          <p>I've been working as a software developer for 2 years, developing clean and efficient codes. I work as an independent Front End web developer, creating modern and responsive pages.</p>
-          <p>I am available for short and long term jobs.</p>
+          <p>My name is Vítor da Silva de Oliveira.</p>
+          <p>I'm a back-end developer. I've been working as a software developer for 2 years, and I deliver clean and well-made codes.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

@@ -15,11 +15,11 @@ function Services() {
             <ul className='service__list'>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Landing page development.</p>
+                <p>API development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>Responsiveness adjustment.</p>
+                <p>Fullstack-Development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
@@ -27,19 +27,15 @@ function Services() {
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
-                <p>API implementation.</p>
+                <p>Database development.</p>
+              </li>
+              <li>
+                <BiCheck className='service__list-icon'/>
+                <p>Website development.</p>
               </li>
               <li>
                 <BiCheck className='service__list-icon'/>
                 <p>Template creation.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>From your design to code.</p>
-              </li>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Page styling with css.</p>
               </li>
             </ul>
         </article>
@@ -48,10 +44,6 @@ function Services() {
             <h3>Complements</h3>
           </div>
             <ul className='service__list'>
-              <li>
-                <BiCheck className='service__list-icon'/>
-                <p>Simple APIs.</p>
-              </li>
               <li>
                 <BiCheck className='service__list-icon'/>
                 <p>Organized github.</p>

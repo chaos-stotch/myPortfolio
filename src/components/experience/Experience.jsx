@@ -9,20 +9,20 @@ function Experience() {
       <h2>My experience</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend development</h3>
+          <h3>Back-End development</h3>
           <div className='experience__content'>
             <article className='experience__details'>
               <GoVerified className='experience_details-icons'/>
               <div>
-                <h4>HTML</h4>
+                <h4>Node.JS</h4>
                 <small className='text-light'>Experienced</small>
               </div>  
             </article>
             <article className='experience__details'>
               <GoVerified className='experience_details-icons'/>
               <div>
-                <h4>CSS</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>Python</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -35,14 +35,21 @@ function Experience() {
             <article className='experience__details'>
               <GoVerified className='experience_details-icons'/>
               <div>
-                <h4>React</h4>
+                <h4>SQL DB</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <GoVerified className='experience_details-icons'/>
               <div>
-                <h4>Api implementation</h4>
+                <h4>API Development</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <GoVerified className='experience_details-icons'/>
+              <div>
+                <h4>Hosting</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -54,7 +61,7 @@ function Experience() {
             <article className='experience__details'>
               <GoVerified className='experience_details-icons'/>
               <div>
-                <h4>Node JS</h4>
+                <h4>React JS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -75,14 +82,14 @@ function Experience() {
             <article className='experience__details'>
               <GoVerified className='experience_details-icons'/>
               <div>
-                <h4>MySQL</h4>
+                <h4>HTML</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <GoVerified className='experience_details-icons'/>
               <div>
-                <h4>Python</h4>
+                <h4>CSS</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
