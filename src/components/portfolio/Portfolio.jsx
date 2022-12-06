@@ -5,41 +5,44 @@ import IMG1 from '../../assets/portfolio-netflix.png'
 import IMG2 from '../../assets/portfolio-pokedex.png'
 import IMG3 from '../../assets/portfolio-SOON.png'
 import IMG4 from '../../assets/portfolio-api.png'
+import IMG5 from '../../assets/portfolio-mangareader.jpg'
+import IMG6 from '../../assets/portfolio-mangareader-api.jpg'
 
 const data = [
   {
     id: 1,
-    image: IMG4,
-    title: 'Tasks API',
-    github: 'https://github.com/chaos-stotch/todoList',
-    demo: "none"
+    image: IMG5,
+    title: 'Manga Reader Front End',
+    github: 'https://github.com/chaos-stotch/manga-reader-front',
+    demo: "https://manga-reader-front.herokuapp.com/"
   },
   {
     id: 2,
+    image: IMG6,
+    title: 'Manga Reader API',
+    github: 'https://github.com/chaos-stotch/manga-reader-api',
+    demo: "none"
+  },
+  
+  {
+    id: 3,
     image: IMG1,
     title: 'Netflix clone',
     github: 'https://github.com/chaos-stotch/netflix-clone',
     demo: "none"
   },
   {
-    id: 3,
+    id: 4,
     image: IMG2,
     title: 'Pokédex',
     github: 'https://github.com/chaos-stotch/pokedex',
     demo: 'https://chaos-stotch.github.io/pokedex/'
   },
   {
-    id: 4,
-    image: IMG3,
-    title: 'soon',
-    github: 'none',
-    demo: "none"
-  },
-  {
     id: 5,
-    image: IMG3,
-    title: 'soon',
-    github: 'none',
+    image: IMG4,
+    title: 'Tasks API',
+    github: 'https://github.com/chaos-stotch/todoList',
     demo: "none"
   },
   {
