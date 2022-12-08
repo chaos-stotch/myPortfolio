@@ -13,11 +13,11 @@ function About() {
       <h5>(entire dev experience)</h5>
 
       <div className="container about__container">
-        <div className="about__me">
+        {/* <div className="about__me">
           <div className="about__me-img">
             <img src={ME} alt="About" />
           </div>
-        </div>
+        </div> */}
 
         <div className="about__content">
           <div className="about__cards">
